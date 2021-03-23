@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQL2nkSOiAhxJfb0qRq957dqYdhsHtxKzU68kqz7apYATnqujbzFC8YJUZaycT+xMiTzvYgfRfDCkbNmOTxifg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZABA\\Documents\\Repos\\dot-net-api-console\\ProductSender\\ProductSender\\ProductSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZABA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
